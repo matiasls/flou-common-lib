@@ -1,4 +1,4 @@
-module flou-common-lib
+module github.com/matiasls/flou-common-lib
 
 go 1.22.4
 
