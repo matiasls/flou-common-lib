@@ -1,4 +1,4 @@
-module common-lib
+module flou-common-lib
 
 go 1.22.4
 
